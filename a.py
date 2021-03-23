@@ -1,4 +1,3 @@
 print("Hello world");
 
-
-qqqq
+print("a");
